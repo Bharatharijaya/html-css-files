@@ -1,0 +1,26 @@
+#image {
+  display: none;
+}
+table, th, td {
+  border: 1px solid yellowgreen;
+  margin-top: 40px;
+  margin-left: 20px;
+  
+}
+th, td {
+  padding: 10px;
+}
+img {
+  background-color: black;
+  margin-left: 20px;
+}
+p {
+  margin-left: 250px;  
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: yellow;
+
+}
+input {
+    margin-left: 330px;
+}
