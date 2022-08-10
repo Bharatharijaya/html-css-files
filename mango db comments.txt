@@ -1,0 +1,26 @@
+
+
+BASICS OF MANGODB COMMANDS
+
+
+
+To get a list of commands-                                     db.help() 
+
+To create a new database or switched between the database -    use mytest 
+
+To delete the database ->                                      db.dropDatabase()
+
+To create collections in database - >                          db.createCollection("mycollection")
+ 
+To delete collections in database -                            db.COLLECTION_NAME.drop() 
+
+Use below command to get list of all databases -               show dbs
+
+To Know your current selected database -                       db
+  
+To check collections list                                      Show collections
+
+
+
+
+
